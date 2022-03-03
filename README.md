@@ -3,9 +3,22 @@
 
 [📫 Go to my portfolio](https://khaplann.github.io/)
 
+- 🔭 My current projects include:
+<!--
+  - 🧪 Data Science/Machine Learning:
+    -  [Cyrillic Classifier](https://github.com/francofgp/Machine-Learning-Cyrillic-Classifier)
+    -  [Tic-Tac-Toe AI](https://github.com/francofgp/Tic-Tac-Toe-Gym)
+    -  [Hyperparameter tunning and CIFAR-10](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part1.ipynb) 
+    -  [Dashboard Covid-19 Argentina](https://github.com/francofgp/streamlit-Casos-Covid-19-Argentina)
+    -  [Breast Cancer Dataset Analysis](https://github.com/francofgp/Breast-Cancer-Dataset-Analysis)
+-->
+
+  - 🌐 Web Development:
+     - [SYNDEO](https://github.com/francofgp/Syndeo)
+
 ### Skills
 I am experienced in:
-- Data Analysis with Python, MatPlotLib, Numpy, Plotly and Streamlit.
+- Data Analysis with Python, MatPlotLib, Numpy.
 - Deployment with Django, Javascript, HTML, CSS and React
 <p align='center'>
 
@@ -32,9 +45,6 @@ I am experienced in:
 <!-- NodeJS -->
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />     
 
-<!-- PyTorch -->
-<img align="left" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />    
-
 <!-- scikit-learn -->
 <img align="left" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />    
 
@@ -43,9 +53,6 @@ I am experienced in:
 
 <!-- React -->
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<!-- .Net -->
-<img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 
 
 <br>
